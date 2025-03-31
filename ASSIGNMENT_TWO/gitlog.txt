@@ -1,0 +1,47 @@
+commit c8f00189f38c4df6d17fba2fbeeb061a299fe469
+Author: Themba Shongwe <shnthe021@nightmare.cs.uct.ac.za>
+Date:   Fri Mar 28 04:12:37 2025 +0000
+
+    query.txt is the sub query file used in part1. N.B search results in part 2 will be placed in the queryResults.txt
+
+commit 36b1519d0367e3675890d593566c83c46fb2b5cc
+Author: Themba Shongwe <shnthe021@nightmare.cs.uct.ac.za>
+Date:   Fri Mar 28 04:05:18 2025 +0000
+
+    Finished AVL App, both part one and part two(experiment).Plotter.py used to plot the results stored in resulter.txt(created from the experiment.resulter.txt contains search/insert comparisons.
+
+commit 52aae828f08ca93c9865f324dc0f93320b94e1ae
+Author: Themba Shongwe <shnthe021@nightmare.cs.uct.ac.za>
+Date:   Thu Mar 27 23:57:18 2025 +0000
+
+    seaprated AVL App for  part1 and part2(GenericsKBAVLApp.java),AVLTree modified to suit my AVL app immplementation.
+
+commit 758ec5771165701f89442c81c85d09756c01d066
+Author: Themba Shongwe <shnthe021@nightmare.cs.uct.ac.za>
+Date:   Wed Mar 26 22:28:19 2025 +0000
+
+    updated AVL app along with subsetMaker(makes subdatasets) and the results of search an insert comparisons in the counterResults.txt. Problem with insert comparison.
+
+commit b7b71b284dfbb9335a3b9296019f6cc1e60dfd80
+Author: Themba Shongwe <shnthe021@nightmare.cs.uct.ac.za>
+Date:   Wed Mar 26 15:35:48 2025 +0000
+
+    modified AVL App and created subfiles for experiment part.
+
+commit f6e47f75d4db214659fa59dfd6da0dd7c6713473
+Author: Themba Shongwe <shnthe021@nightmare.cs.uct.ac.za>
+Date:   Wed Mar 26 10:51:23 2025 +0000
+
+    automated, updated AVL App with manual query file.
+
+commit 8b480b2ed2c05c775194f2c8ac8a0cf020d141df
+Author: Themba Shongwe <shnthe021@nightmare.cs.uct.ac.za>
+Date:   Mon Mar 24 22:07:01 2025 +0000
+
+    updated version of AVL app.
+
+commit 37a572de0155f7ebab2650a7ed61dfff0a6f642e
+Author: Themba Shongwe <shnthe021@nightmare.cs.uct.ac.za>
+Date:   Mon Mar 24 21:21:46 2025 +0000
+
+    initial commit of first AVL App version.
